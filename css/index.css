@@ -1,0 +1,28 @@
+.foto {
+    width: 375px;
+    height: 300px;
+    margin: 20px;
+}
+
+main img {
+    margin-top: 75px;
+    margin-left: 50px;
+    float: left;
+}
+
+.texto {
+    float: right;
+    margin-left: 20px;
+    text-align: left;
+}
+
+h2, h3 {
+    color: beige;
+    font-size: 2em; 
+}
+
+p {
+    margin-top: 20px;
+    color: whitesmoke;
+    font-size: 2em; 
+}

@@ -1,0 +1,11 @@
+section h2 {
+    color: beige;
+    font-size: 2em; 
+}
+#fotos{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border: 40px black solid ;
+    
+}

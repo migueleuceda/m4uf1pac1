@@ -1,0 +1,9 @@
+main h2{
+    color: beige;
+    font-size: 2em; 
+}
+main p{
+    margin-top: 20px;
+    color: whitesmoke;
+    font-size: 2em;
+}
